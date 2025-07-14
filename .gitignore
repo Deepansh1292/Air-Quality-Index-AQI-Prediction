@@ -315,18 +315,18 @@ temp/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-# Large model files (if you want to exclude them)
-*.h5
-*.pkl
-*.pkl.gz
-*.joblib
+# # Project specific
+# # Large model files (if you want to exclude them)
+# *.h5
+# *.pkl
+# *.pkl.gz
+# *.joblib
 
-# Data files (if you want to exclude them)
-*.csv
-*.xlsx
-*.xls
-*.json
+# # Data files (if you want to exclude them)
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
 
 # Model checkpoints and logs
 checkpoints/
