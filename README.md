@@ -5,7 +5,7 @@ A comprehensive AI-powered air quality forecasting system that predicts Air Qual
 ## 🚀 Features
 
 - **Model Comparison**: Both Random Forest and LSTM Neural Network were tested; Random Forest is used in production for its superior R² score.
-- **Real-time Prediction**: Get instant AQI predictions based on pollutant parameters
+- **Real-time Prediction**: Get instant AQI predictions based on pollutant parameters 
 - **Modern UI**: Beautiful, responsive design with glass morphism effects
 - **Comprehensive Analysis**: Detailed AQI categorization and health implications
 - **Cross-validation**: Robust model validation with multiple folds
@@ -261,4 +261,5 @@ Below are screenshots of the modern, glass-morphism inspired UI:
   <br/><b>AQI predicted as 192.39 (Moderate), closely matching actual value with health tips displayed..png</b>
 
 </p> 
+
 
