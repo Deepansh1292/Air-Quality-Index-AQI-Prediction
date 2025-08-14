@@ -13,7 +13,7 @@ A comprehensive AI-powered air quality forecasting system that predicts Air Qual
 
 ## 📊 Model Performance
 
-| Model | MAE | RMSE | R² Score | Description |
+| Model | MAE | RMSE | R² Score | Description | 
 |-------|-----|------|----------|-------------|
 | Random Forest | 10.91 | 19.12 | 0.96 | Ensemble learning with high interpretability (Used in production) |
 | LSTM Neural Network | 13.36 | 20.76 | 0.95 | Deep learning with sequence prediction (fine-tuned, for comparison) |
@@ -71,7 +71,7 @@ Air Quality Index Prediction Project/
    ```
 
 4. **Start the Flask server:**
-   ```bash
+   ```bash 
    python app.py
    ```
 
@@ -259,4 +259,5 @@ Below are screenshots of the modern, glass-morphism inspired UI:
 <p align="center">
   <img src="./Frontend/UI Images/AQI predicted as 192.39 (Moderate), closely matching actual value with health tips displayed..png" alt="AQI predicted as 192.39 (Moderate), closely matching actual value with health tips displayed..png" width="600"/>
   <br/><b>AQI predicted as 192.39 (Moderate), closely matching actual value with health tips displayed..png</b>
+
 </p> 
