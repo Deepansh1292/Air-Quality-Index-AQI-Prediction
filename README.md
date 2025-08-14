@@ -261,3 +261,4 @@ Below are screenshots of the modern, glass-morphism inspired UI:
   <br/><b>AQI predicted as 192.39 (Moderate), closely matching actual value with health tips displayed..png</b>
 
 </p> 
+
